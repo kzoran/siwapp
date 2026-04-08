@@ -29,5 +29,5 @@ On Ubuntu Server/Desktop acting as client copy the file to "siwapp_client_genera
 sudo bash siwapp_client_generate_traffic.sh <IP/Domain>
 
 ## Contributors
-originally developed by Sujit Chandrapati, whose version is fully compatible with all public cloud environments
+Originally developed by Sujit Chandrapati, whose version is fully compatible with all public cloud environments
 Refactoring for On-Premise (Debian 13) & Idempotent Installation by MiniMe
