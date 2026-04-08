@@ -1,2 +1,4 @@
 setup_sudo.sh
 setup_user.sh
+*.log
+various_support_scripts
