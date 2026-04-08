@@ -29,4 +29,4 @@ On Ubuntu Server/Desktop acting as client copy the file to "siwapp_client_genera
 sudo bash siwapp_client_generate_traffic.sh <IP/Domain>
 
 ## Contributors
-* **Sujit Chandrapati** - *System Architecture & Policy Design* & his version works on all Public Clouds
+originally developed by Sujit Chandrapati, whose version is fully compatible with all public cloud environments
