@@ -4,6 +4,8 @@ Debian 13 Support: Successfully refactored the environment to run smoothly on th
 
 Enhanced Setup Script: I’ve refined the installer to be more "state-aware." By introducing idempotent logic, the script can now pick up right where it left off. This makes the setup more robust and user-friendly, especially for those who might need to troubleshoot environmental issues mid-install. & it saves time :)
 
+Next Steps: This lab will be used in CSW (Cisco Secure Workload) enviroment. I will create an ansible playbook to deploy CSW Agents 
+
 From Original Creator: 
 I managed to run the new version of SIWAPP invoice APP (Elixir version) with PostgreSQL This is working on Ubuntu 24.04
 I am sharing the fully automated installation script, which can be used in any environment:
