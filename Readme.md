@@ -28,4 +28,5 @@ SIWAPP Client Auto Traffic Generator:
 On Ubuntu Server/Desktop acting as client copy the file to "siwapp_client_generate_traffic.sh" and run the
 sudo bash siwapp_client_generate_traffic.sh <IP/Domain>
 
-
+## Contributors
+* **Sujit Chandrapati** - *System Architecture & Policy Design* & his version works on all Public Clouds
