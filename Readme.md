@@ -1,3 +1,10 @@
+Project Evolution
+
+Debian 13 Support: Successfully refactored the environment to run smoothly on the latest Debian release.
+
+Enhanced Setup Script: I’ve refined the installer to be more "state-aware." By introducing idempotent logic, the script can now pick up right where it left off. This makes the setup more robust and user-friendly, especially for those who might need to troubleshoot environmental issues mid-install. & it saves time :)
+
+From Original Creator: 
 I managed to run the new version of SIWAPP invoice APP (Elixir version) with PostgreSQL This is working on Ubuntu 24.04
 I am sharing the fully automated installation script, which can be used in any environment:
 
@@ -18,3 +25,5 @@ User → app-lb (80, 443) → 3 x app (8080, 8443) → db-lb (5432) → 3 x db (
 SIWAPP Client Auto Traffic Generator:
 On Ubuntu Server/Desktop acting as client copy the file to "siwapp_client_generate_traffic.sh" and run the
 sudo bash siwapp_client_generate_traffic.sh <IP/Domain>
+
+
