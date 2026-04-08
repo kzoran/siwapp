@@ -1,3 +1,6 @@
+[![N|Solid](./images/siwapp_logo.png)
+
+
 **Project Evolution**
 
 **Debian 13 Support**: Successfully refactored the environment to run smoothly on the latest Debian release.
